@@ -42,5 +42,5 @@ run_analysis <- function () {
         names(MergeAll)[1:2] = c("SubjectID", "Activity")
 
 #Create set with the average of each variable for each activity and each subject.        
-       group_by(MergeAll,SubjectID, Activity)  %>%   summarise_all(funs(mean))        
+       group_by(MergeAll,SubjectID, Activity)  %>%   summarise_all(mean)        
 }       
