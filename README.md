@@ -1,4 +1,4 @@
-## Course Getting and Cleaning Data the Assignment
+### Course Getting and Cleaning Data the Assignment
 Goal create one R script called run_analysis.R that is doing the following tasks:
 
 # 1) Merges the training and the test sets to create one data set.
