@@ -3,7 +3,7 @@
 
 A sample of the data set structure:
 
-| Subject  | Activity            | Variable 1    | Variable 1... |
+| Subject  | Activity            | Variable 1    | Variable 2... |
 |:---------|:--------------------|:--------------|:--------------|
 | 1        | LAYING              | mean(V1)       | mean(V2)       |
 | 1        | SITTING             | mean(V1)       | mean(V2)       |
