@@ -1,5 +1,5 @@
 ### Course Getting and Cleaning Data the Assignment
-Goal create one R script called run_analysis.R that is doing the following tasks:
+Goal create one R script called run_analysis.R that is doing the following tasks
 
 # 1) Merges the training and the test sets to create one data set.
 This is done by loading all the txt files as table, then combining them by row.
@@ -19,5 +19,8 @@ Renaming is done for the Subject and activity variables
 
 # Finally from the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Final results are created by using group_by and summarise_all function
+
+Code is based on good explanation from other student in the forum, especially here:
+https://drive.google.com/file/d/0B1r70tGT37UxYzhNQWdXS19CN1U/view
 
 
