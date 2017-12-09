@@ -14,6 +14,8 @@ A sample of the data set structure:
 | 2        | LAYING              | mean(V1)       | mean(V2)       |
 | ...      | ...                 | ...           | ...           |
 
+There is 68 columns including Subjects, Activity and 66 Variables representing mean or std variation of the measured signals.
+Size of the output array is 180 (30 subjects x 6 activity) obs by 68 variables
 
 ## Variables present in the data set
 
